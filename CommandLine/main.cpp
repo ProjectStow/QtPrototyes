@@ -33,6 +33,8 @@ int main(int argc, char *argv[])
     }
 
     return 1;
+
+    // Right noew we do not need an Event Loop.
     //return a.exec();
 }
 
